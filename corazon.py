@@ -42,7 +42,7 @@ def escribir(mensaje, velocidad):
 
 
 # Mostrar el mensaje
-escribir("Hola  :b ❤️", 0.15)
+escribir("Mensaje de hola", 0.15)
 
 time.sleep(1)
 
